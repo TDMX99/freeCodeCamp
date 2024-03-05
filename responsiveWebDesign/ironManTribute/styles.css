@@ -1,0 +1,49 @@
+#img-div {
+  max-width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+img-caption {
+  text-align: center;
+  width: 55%;
+  font-family: "Exo 2";
+}
+
+p,
+h2,
+a {
+  width: 60%;
+  font-family: "Exo 2";
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
